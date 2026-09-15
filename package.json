@@ -1,0 +1,25 @@
+{
+  "name": "devnews",
+  "version": "1.0.0",
+  "description": "O DevNews é uma plataforma de notícias voltada para tecnologia e desenvolvimento de software, criada com fins educacionais e de estudo.",
+  "homepage": "https://github.com/rodrigofst/devnews#readme",
+  "bugs": {
+    "url": "https://github.com/rodrigofst/devnews/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigofst/devnews.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
